@@ -19,3 +19,9 @@ A Claude Code plugin marketplace for LLM-first UX tooling.
 ```
 /plugin install ux-harness@rig
 ```
+
+## Examples
+
+| Example | What it shows |
+|---------|---------------|
+| [ux-harness-portable](./examples/ux-harness-portable) | A portable, framework-agnostic snapshot of the design system the `ux-harness` plugin expects: semantic tokens (`design-system/tokens.ts`), Storybook config, and 24 stories across foundations, components, widgets, and page layouts. Drop into any React + Tailwind project as a starting point. |
