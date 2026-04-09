@@ -17,5 +17,5 @@ A Claude Code plugin marketplace for LLM-first UX tooling.
 ## Install a plugin
 
 ```
-/plugin install ux-harness@ux-harness
+/plugin install ux-harness@rig
 ```
