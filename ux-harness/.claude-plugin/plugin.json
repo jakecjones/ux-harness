@@ -1,0 +1,7 @@
+{
+  "name": "ux-harness",
+  "description": "LLM-first design system and component standard for React/Tailwind frontends. Storybook-first lookup, semantic tokens, 8 engineering rules, 11 skills and 5 agents for building, auditing, and migrating UI.",
+  "version": "2.3.0",
+  "author": { "name": "Carvana TestOps" },
+  "tool": "code"
+}

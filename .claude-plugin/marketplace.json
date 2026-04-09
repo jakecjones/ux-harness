@@ -1,0 +1,23 @@
+{
+  "name": "uxsalt",
+  "owner": {
+    "name": "jakecjones"
+  },
+  "metadata": {
+    "description": "LLM-first design system plugins for React/Tailwind frontends.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ux-harness",
+      "source": "./ux-harness",
+      "description": "LLM-first design system and component standard for React/Tailwind frontends. Storybook-first lookup, semantic tokens, 8 engineering rules, 11 skills and 5 agents for building, auditing, and migrating UI.",
+      "version": "2.3.0",
+      "author": {
+        "name": "Carvana TestOps"
+      },
+      "category": "design-system",
+      "keywords": ["react", "tailwind", "design-system", "storybook", "ui", "accessibility"]
+    }
+  ]
+}
