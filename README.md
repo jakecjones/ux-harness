@@ -1,11 +1,11 @@
-# uxsalt
+# ux-harness
 
 A Claude Code plugin marketplace for LLM-first UX tooling.
 
 ## Install the marketplace
 
 ```
-/plugin marketplace add jakecjones/uxsalt
+/plugin marketplace add jakecjones/ux-harness
 ```
 
 ## Available plugins
@@ -17,5 +17,5 @@ A Claude Code plugin marketplace for LLM-first UX tooling.
 ## Install a plugin
 
 ```
-/plugin install ux-harness@uxsalt
+/plugin install ux-harness@ux-harness
 ```
